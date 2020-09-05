@@ -4,12 +4,6 @@
   "license_uri": "https://www.kooi.xyz",
   "member": [
     {
-      "name": "buyer 1",
-      "domain": "www.w3schools.com",
-      "reg_date": "today",
-      "exp_date": "nanti"
-    },
-    {
       "name": "buyer 2",
       "domain": "tryit.w3schools.com",
       "reg_date": "today",
