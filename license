@@ -1,0 +1,19 @@
+{
+  "name": "license",
+  "creator": "Arachi",
+  "license_uri": "https://www.kooi.xyz",
+  "member": [
+    {
+      "name": "buyer 1",
+      "domain": "https://www.w3schools.com/",
+      "reg_date": "today",
+      "exp_date": "nanti"
+    },
+    {
+      "name": "buyer 2",
+      "domain": "https://www.w3schools.com/",
+      "reg_date": "today",
+      "exp_date": "nanti"
+    }
+  ]
+}
